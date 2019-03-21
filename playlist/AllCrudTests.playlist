@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="DALTests.PessoaIntegration.DeletePerson.DeletePerson.DeletePessoa_Valid" /><Add Test="DALTests.PessoaIntegration.GetPerson.GetPerson.GetPerson_LastPerson_Valid" /><Add Test="DALTests.PessoaIntegration.InsertPerson.InsertPerson.InsertPerson_Valid" /><Add Test="DALTests.PessoaIntegration.UpdatePerson.UpdatePerson.UpdatePerson_Valid" /></Playlist>
